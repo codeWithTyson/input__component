@@ -22,11 +22,11 @@ const App = () => {
         <footer className="font-poppins">
           <a
             className="text-xs text-blue-500 underline"
-            href="https://github.com/Noobsiecoder"
+            href="https://github.com/codeWithTyson"
             target="_blank"
             rel="noreferrer noopener"
           >
-            NoobsieCoder@DevChallenges.io
+            Faisaltariq@DevChallenges.io
           </a>
         </footer>
       </div>
